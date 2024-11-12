@@ -1,0 +1,674 @@
+﻿  controller.cpp
+E:\zhuomian\snake-game\src\startinterface.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/controller.cpp”)
+  
+E:\zhuomian\snake-game\src\startinterface.h(11,24): error C2614: “StartInterface”: 非法的成员初始化:“speed”不是基或成员
+  (编译源文件“E:/zhuomian/snake-game/src/controller.cpp”)
+  
+E:\zhuomian\snake-game\src\snake.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/controller.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/controller.cpp”)
+  
+E:\zhuomian\snake-game\src\snake.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/controller.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(9,58): error C2614: “Food”: 非法的成员初始化:“x”不是基或成员
+  (编译源文件“E:/zhuomian/snake-game/src/controller.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(9,64): error C2614: “Food”: 非法的成员初始化:“y”不是基或成员
+  (编译源文件“E:/zhuomian/snake-game/src/controller.cpp”)
+  
+E:\zhuomian\snake-game\src\controller.cpp(12,18): error C3254: “Snake”: 类包含显式重写“Start”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(12,18): error C2838: “Start”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\controller.cpp(27,18): error C3254: “Snake”: 类包含显式重写“Select”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(27,18): error C2838: “Select”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\controller.cpp(161,18): error C3254: “Snake”: 类包含显式重写“DrawGame”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(161,18): error C2838: “DrawGame”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\controller.cpp(207,17): error C3254: “Snake”: 类包含显式重写“PlayGame”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(207,17): error C2838: “PlayGame”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\controller.cpp(284,18): error C3254: “Snake”: 类包含显式重写“UpdateScore”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(284,18): error C2838: “UpdateScore”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\controller.cpp(291,18): error C3254: “Snake”: 类包含显式重写“RewriteScore”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(291,18): error C2838: “RewriteScore”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\controller.cpp(311,17): error C3254: “Snake”: 类包含显式重写“Menu”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(311,17): error C2838: “Menu”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\controller.cpp(418,18): error C3254: “Snake”: 类包含显式重写“Game”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(418,18): error C2838: “Game”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\controller.cpp(442,17): error C3254: “Snake”: 类包含显式重写“GameOver”，但并不从包含函数声明的接口派生
+E:\zhuomian\snake-game\src\controller.cpp(442,17): error C2838: “GameOver”: 成员声明中的限定名称非法
+E:\zhuomian\snake-game\src\snake.h(10,1): error C1075: “{”: 未找到匹配令牌
+  (编译源文件“E:/zhuomian/snake-game/src/controller.cpp”)
+  
+  food.cpp
+E:\zhuomian\snake-game\src\food.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\zhuomian\snake-game\src\food.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+E:\zhuomian\snake-game\src\snake.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(5,7): error C3769: “Snake”: 嵌套类不能与它的直接封闭类同名
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(558,1): error C2059: 语法错误:“namespace”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(558,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,17): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,37): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,37): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,37): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,49): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(574,72): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,6): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,26): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,26): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,111): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2059: 语法错误:“return”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2628: “Snake”后面接“bool”是非法的(是否忘记了“;”?)
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2440: “return”: 无法从“bool”转换为“Snake”
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1):
+      “Snake::Snake”: 函数不接受 1 个参数
+          D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1):
+          可能是“Snake::Snake(Snake &&)”
+          D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1):
+          或    “Snake::Snake(const Snake &)”
+          D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1):
+          尝试匹配参数列表“(bool)”时
+  
+E:\zhuomian\snake-game\src\food.h(9,58): error C2614: “Snake::Food”: 非法的成员初始化:“x”不是基或成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(9,64): error C2614: “Snake::Food”: 非法的成员初始化:“y”不是基或成员
+  (编译源文件“E:/zhuomian/snake-game/src/food.cpp”)
+  
+E:\zhuomian\snake-game\src\food.cpp(7,12): error C2027: 使用了未定义类型“Food”
+      E:\zhuomian\snake-game\src\snake.h(8,7):
+      参见“Food”的声明
+  
+E:\zhuomian\snake-game\src\food.cpp(18,34): error C2248: “Snake::snake”: 无法访问 private 成员(在“Snake”类中声明)
+      E:\zhuomian\snake-game\src\snake.h(29,23):
+      参见“Snake::snake”的声明
+      E:\zhuomian\snake-game\src\snake.h(9,7):
+      参见“Snake”的声明
+  
+E:\zhuomian\snake-game\src\food.cpp(20,79): error C2065: “big_x”: 未声明的标识符
+E:\zhuomian\snake-game\src\food.cpp(20,97): error C2065: “big_y”: 未声明的标识符
+E:\zhuomian\snake-game\src\food.cpp(27,9): error C2065: “x”: 未声明的标识符
+E:\zhuomian\snake-game\src\food.cpp(27,9): error C1003: 错误计数超过 100；正在停止编译
+  main.cpp
+  map.cpp
+  point.cpp
+  snake.cpp
+E:\zhuomian\snake-game\src\snake.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+E:\zhuomian\snake-game\src\snake.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(9,58): error C2614: “Food”: 非法的成员初始化:“x”不是基或成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+E:\zhuomian\snake-game\src\food.h(9,64): error C2614: “Food”: 非法的成员初始化:“y”不是基或成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\conio.h(19,1): error C2059: 语法错误:“字符串”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\Windows Kits\10\Include\10.0.22621.0\ucrt\conio.h(19,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(558,1): error C2059: 语法错误:“namespace”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(558,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,17): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,37): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,37): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,37): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(573,49): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(574,72): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,6): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,26): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,26): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(586,111): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(772,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(799,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(801,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(817,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(818,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(820,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(822,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(824,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(825,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2039: "_Common_float_type_t": 不是 "std" 的成员
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\deque(23,1):
+      参见“std”的声明
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2059: 语法错误:“<”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(826,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2988: 不可识别的模板声明/定义
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2059: 语法错误:“return”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2238: 意外的标记位于“;”之前
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2628: “Snake”后面接“bool”是非法的(是否忘记了“;”?)
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+  
+D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1): error C2440: “return”: 无法从“bool”转换为“Snake”
+  (编译源文件“E:/zhuomian/snake-game/src/snake.cpp”)
+      D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1):
+      “Snake::Snake”: 函数不接受 1 个参数
+          D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1):
+          可能是“Snake::Snake(Snake &&)”
+          D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1):
+          或    “Snake::Snake(const Snake &)”
+          D:\visual s\VC\Tools\MSVC\14.41.34120\include\cmath(830,1):
+          尝试匹配参数列表“(bool)”时
+  
+E:\zhuomian\snake-game\src\snake.cpp(73,9): error C3861: “_kbhit”: 找不到标识符
+E:\zhuomian\snake-game\src\snake.cpp(75,14): error C3861: “_getch”: 找不到标识符
+E:\zhuomian\snake-game\src\snake.cpp(79,18): error C3861: “_getch”: 找不到标识符
+E:\zhuomian\snake-game\src\snake.cpp(116,38): error C2039: "x": 不是 "Food" 的成员
+      E:\zhuomian\snake-game\src\food.h(6,7):
+      参见“Food”的声明
+  
+E:\zhuomian\snake-game\src\snake.cpp(116,72): error C2039: "y": 不是 "Food" 的成员
+      E:\zhuomian\snake-game\src\food.h(6,7):
+      参见“Food”的声明
+  
+E:\zhuomian\snake-game\src\snake.cpp(116,72): error C1003: 错误计数超过 100；正在停止编译
+  startinterface.cpp
+E:\zhuomian\snake-game\src\startinterface.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“E:/zhuomian/snake-game/src/startinterface.cpp”)
+  
+E:\zhuomian\snake-game\src\startinterface.h(11,24): error C2614: “StartInterface”: 非法的成员初始化:“speed”不是基或成员
+  (编译源文件“E:/zhuomian/snake-game/src/startinterface.cpp”)
+  
+E:\zhuomian\snake-game\src\startinterface.cpp(10,15): error C2065: “speed”: 未声明的标识符
+E:\zhuomian\snake-game\src\startinterface.cpp(24,15): error C2065: “speed”: 未声明的标识符
+E:\zhuomian\snake-game\src\startinterface.cpp(39,15): error C2065: “speed”: 未声明的标识符
+  tools.cpp
+  正在生成代码...
